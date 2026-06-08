@@ -111,7 +111,7 @@ All models trained and evaluated using **Leave-One-Out Cross-Validation (LOO-CV)
 
 ## Results — Confusion Matrices
 
-![Confusion Matrices - All Models]([images/ConfusionMatrix.png](https://github.com/saquibattar/Speed-Based-Detection-of-Objects-Moving-Away-Using-a-Horizontally-Oriented-Ultrasonic-Sensor/blob/main/Results/ConfusionMatrix.png))
+![Confusion Matrices - All Models](https://github.com/saquibattar/Speed-Based-Detection-of-Objects-Moving-Away-Using-a-Horizontally-Oriented-Ultrasonic-Sensor/blob/main/Results/ConfusionMatrix.png)
 
 *Combined confusion matrices for all four classifiers (Decision Tree, Random Forest, KNN, SVM) under Leave-One-Out Cross-Validation. Darker blue = higher count. Diagonal cells = correct predictions.*
 
