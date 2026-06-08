@@ -111,7 +111,7 @@ All models trained and evaluated using **Leave-One-Out Cross-Validation (LOO-CV)
 
 ## Results — Confusion Matrices
 
-![Confusion Matrices - All Models](images/ConfusionMatrix.png)
+![Confusion Matrices - All Models]([images/ConfusionMatrix.png](https://github.com/saquibattar/Speed-Based-Detection-of-Objects-Moving-Away-Using-a-Horizontally-Oriented-Ultrasonic-Sensor/blob/main/Results/ConfusionMatrix.png))
 
 *Combined confusion matrices for all four classifiers (Decision Tree, Random Forest, KNN, SVM) under Leave-One-Out Cross-Validation. Darker blue = higher count. Diagonal cells = correct predictions.*
 
@@ -121,11 +121,6 @@ All models trained and evaluated using **Leave-One-Out Cross-Validation (LOO-CV)
 | Random Forest | 80.0% | 7/8 | 8/10 | 5/7 |
 | KNN (k=3) | 76.0% | 5/8 | 8/10 | 6/7 |
 | **SVM** | **88.0%** | **7/8** | **10/10** | **5/7** |
-
-> **To display this image on GitHub:**
-> 1. Create a folder called `images` in the root of your repository.
-> 2. Place `ConfusionMatrix.png` inside that folder.
-> 3. The image will render automatically when viewed on GitHub.
 
 ---
 
