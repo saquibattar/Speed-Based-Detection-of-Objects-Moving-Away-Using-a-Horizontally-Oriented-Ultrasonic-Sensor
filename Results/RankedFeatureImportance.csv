@@ -1,0 +1,14 @@
+﻿,Feature,Importance
+1,end_distance,0.2361
+2,std_amplitude,0.1333
+3,regression_speed,0.1200
+4,start_distance,0.0947
+5,dropout_ratio,0.0749
+6,displacement,0.0733
+7,duration,0.0715
+8,num_dropouts,0.0515
+9,mean_amplitude,0.0486
+10,signal_range,0.0438
+11,start_stability,0.0227
+12,std_echo_energy,0.0196
+13,mean_echo_energy,0.0100

@@ -1,0 +1,26 @@
+﻿#,Filename,Actual,Predicted,Result
+1,dia 1.csv,Diagonal,Diagonal,✅ OK
+2,dia 10.csv,Diagonal,Diagonal,✅ OK
+3,dia 2.csv,Diagonal,Diagonal,✅ OK
+4,dia 4.csv,Diagonal,Diagonal,✅ OK
+5,dia 5.csv,Diagonal,Diagonal,✅ OK
+6,diagonalobjectleft_200.csv,Diagonal,Diagonal,✅ OK
+7,diagonalobjectrange_200.csv,Diagonal,Diagonal,✅ OK
+8,diagonalobjectsmalldist_200.csv,Diagonal,Fast,❌ WRONG
+9,fast 10.csv,Fast,Fast,✅ OK
+10,fast 3.csv,Fast,Fast,✅ OK
+11,fast 4.csv,Fast,Fast,✅ OK
+12,fast 5.csv,Fast,Fast,✅ OK
+13,fast 6.csv,Fast,Fast,✅ OK
+14,fast 7.csv,Fast,Fast,✅ OK
+15,fast 8.csv,Fast,Fast,✅ OK
+16,fast 9.csv,Fast,Fast,✅ OK
+17,fast_200.csv,Fast,Fast,✅ OK
+18,fastawy_200.csv,Fast,Fast,✅ OK
+19,medium 1.csv,Medium,Fast,❌ WRONG
+20,medium 10 distance 10cm.csv,Medium,Fast,❌ WRONG
+21,medium 11.csv,Medium,Medium,✅ OK
+22,medium 2.csv,Medium,Medium,✅ OK
+23,medium 3.csv,Medium,Medium,✅ OK
+24,medium 4.csv,Medium,Medium,✅ OK
+25,medium 7.csv,Medium,Medium,✅ OK
