@@ -19,7 +19,7 @@ This project investigates whether a single horizontally mounted ultrasonic senso
 ---
 
 ## Pipeline Summary
----
+```text
 Raw CSV Echo Data
       ↓
 Echo Waveform Extraction (Column 18+)
@@ -39,7 +39,7 @@ Feature Extraction (13 features per recording)
 ML Classification (DT / RF / KNN / SVM + LOO-CV)
       ↓
 Output: Medium / Fast / Diagonal
----
+```
 
 ---
 
